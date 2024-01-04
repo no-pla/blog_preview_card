@@ -13,6 +13,9 @@ const config: Config = {
       pureWhite: "#FFFFFF",
       grey: "#7F7F7F",
     },
+    screens: {
+      sm: [{ max: "384px" }],
+    },
     extend: {
       boxShadow: {
         cardShadow: "8px 8px 0px 0px #000;",
