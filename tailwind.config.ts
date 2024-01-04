@@ -20,6 +20,12 @@ const config: Config = {
       boxShadow: {
         cardShadow: "8px 8px 0px 0px #000;",
       },
+      fontSize: {
+        heading: "24px",
+        bodyM: "16px",
+        bodyS: "14px",
+      },
+      fontWeight: {},
     },
   },
   plugins: [],
