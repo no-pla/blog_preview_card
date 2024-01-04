@@ -1,3 +1,5 @@
 export default function Home() {
-  return <main>메인 페이지</main>;
+  return (
+    <main className="bg-yellow h-screen flex justify-center items-center"></main>
+  );
 }
